@@ -17,10 +17,14 @@
 	display: flex;
 	flex-wrap: wrap;
 	margin: 10px;
-}
+	}
+	
  .btn img {
 	 width: 100%;
  }
+.modal-content {
+	padding: 3%;
+}
  .modal-body {
 	display: flex;
     width: 100%;
@@ -28,4 +32,6 @@
  .modal-body img {
 	 width: 100%;
  }
+ 
+ 
   
